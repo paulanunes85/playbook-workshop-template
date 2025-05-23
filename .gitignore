@@ -1,0 +1,102 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+
+# Build Output
+dist/
+build/
+out/
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+tmp/
+temp/
+
+# Personal Notes
+personal-notes/
+*-personal.*
+*-private.*
+
+# Participant Data
+participant-data/
+feedback-raw/
+
+# Sensitive Information
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
+
+# Media Files (if large)
+*.mp4
+*.mov
+*.avi
+
+# Backup Files
+*.bak
+*.backup
+*-backup/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.coverage
+.coverage.*
+
+# Documentation Build
+docs/_build/
+site/
+
+# Custom
+# Add your custom ignore patterns here
